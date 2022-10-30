@@ -4,3 +4,5 @@ In the React Front end the slider and custom hour JavaScript files have been com
 
 GasGuru design documentation
 [GAsGuru design documentation.docx](https://github.com/DanielH208/GasGuruExample/files/9896377/GAsGuru.design.documentation.docx)
+
+GasGuru web app design document![GasGuruReactWebAppDesignDocument](https://user-images.githubusercontent.com/80534190/198892186-ff42a7c7-ac09-48c7-9111-0f039ee5b0bb.JPG)
